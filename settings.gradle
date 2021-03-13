@@ -1,0 +1,3 @@
+rootProject.name='EPhuongOanh'
+include ':app'
+include ':myutils'
