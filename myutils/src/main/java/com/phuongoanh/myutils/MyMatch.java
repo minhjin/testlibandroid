@@ -13,4 +13,8 @@ public class MyMatch {
     public static int test(){
         return  10;
     }
+
+    public static int tru(int a, int b){
+        return  a - b;
+    }
 }
